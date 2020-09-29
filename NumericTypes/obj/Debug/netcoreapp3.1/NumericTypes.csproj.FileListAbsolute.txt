@@ -1,0 +1,13 @@
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.AssemblyInfo.cs
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.exe
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.deps.json
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.runtimeconfig.json
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.runtimeconfig.dev.json
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.dll
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.pdb
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.dll
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.pdb
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.genruntimeconfig.cache

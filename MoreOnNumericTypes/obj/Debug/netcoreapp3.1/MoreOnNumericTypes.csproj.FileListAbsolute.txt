@@ -1,0 +1,13 @@
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\MoreOnNumericTypes\bin\Debug\netcoreapp3.1\MoreOnNumericTypes.exe
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\MoreOnNumericTypes\bin\Debug\netcoreapp3.1\MoreOnNumericTypes.deps.json
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\MoreOnNumericTypes\bin\Debug\netcoreapp3.1\MoreOnNumericTypes.runtimeconfig.json
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\MoreOnNumericTypes\bin\Debug\netcoreapp3.1\MoreOnNumericTypes.runtimeconfig.dev.json
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\MoreOnNumericTypes\bin\Debug\netcoreapp3.1\MoreOnNumericTypes.dll
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\MoreOnNumericTypes\bin\Debug\netcoreapp3.1\MoreOnNumericTypes.pdb
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\MoreOnNumericTypes\obj\Debug\netcoreapp3.1\MoreOnNumericTypes.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\MoreOnNumericTypes\obj\Debug\netcoreapp3.1\MoreOnNumericTypes.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\MoreOnNumericTypes\obj\Debug\netcoreapp3.1\MoreOnNumericTypes.AssemblyInfo.cs
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\MoreOnNumericTypes\obj\Debug\netcoreapp3.1\MoreOnNumericTypes.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\MoreOnNumericTypes\obj\Debug\netcoreapp3.1\MoreOnNumericTypes.dll
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\MoreOnNumericTypes\obj\Debug\netcoreapp3.1\MoreOnNumericTypes.pdb
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\MoreOnNumericTypes\obj\Debug\netcoreapp3.1\MoreOnNumericTypes.genruntimeconfig.cache

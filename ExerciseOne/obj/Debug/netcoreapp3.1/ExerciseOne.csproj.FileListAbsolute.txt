@@ -1,0 +1,13 @@
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.exe
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.deps.json
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.runtimeconfig.json
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.runtimeconfig.dev.json
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.dll
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.pdb
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.AssemblyInfo.cs
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.dll
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.pdb
+C:\Users\Sam\Desktop\LC101\csharp-practice\1-introduction-and-setup\ExerciseOne\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.genruntimeconfig.cache
